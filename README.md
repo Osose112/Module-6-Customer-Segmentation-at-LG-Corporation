@@ -1,0 +1,1 @@
+# Customer Segmentation at LG Corportation
